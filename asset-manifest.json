@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94401224.css",
+    "main.js": "/static/js/main.27536b1d.js",
+    "static/js/27.8a235035.chunk.js": "/static/js/27.8a235035.chunk.js",
+    "static/media/header.png": "/static/media/header.3f4238fb899b7e179aed.png",
+    "static/media/logo.png": "/static/media/logo.b70e7bf99250351344f2.png",
+    "static/media/BlueSky_Splash.jpg": "/static/media/BlueSky_Splash.271bdfa1b32b851c30ee.jpg",
+    "static/media/candy_Splash.jpg": "/static/media/candy_Splash.ae1bfff54985dbfbf899.jpg",
+    "static/media/Red.jpg": "/static/media/Red.e19d25aa6a6ea5b6550c.jpg",
+    "static/media/dark_blue.jpg": "/static/media/dark_blue.2b610b541985601ecff6.jpg",
+    "static/media/blue.jpg": "/static/media/blue.ac998000a1ffa301e282.jpg",
+    "static/media/brown.jpg": "/static/media/brown.92e4620f6b0190f27bb4.jpg",
+    "static/media/purple.jpg": "/static/media/purple.042a135229774825f929.jpg",
+    "static/media/dark_green.jpg": "/static/media/dark_green.6f51af7d62261a5756af.jpg",
+    "static/media/mixed_fruit_Splash.jpg": "/static/media/mixed_fruit_Splash.dc0bb3ff16b8dbe70886.jpg",
+    "static/media/lemon.woff2": "/static/media/lemon.e19d7eb5363d60e75422.woff2",
+    "static/media/gray.jpg": "/static/media/gray.5ddcd482e1428c9480d7.jpg",
+    "static/media/baby_blue.jpg": "/static/media/baby_blue.ff04c3d41ac4cf4e65db.jpg",
+    "static/media/Orange.jpg": "/static/media/Orange.70c68eb8649acf83a242.jpg",
+    "static/media/stream.jpg": "/static/media/stream.14d59270553f89350da6.jpg",
+    "static/media/Slurpee.jpg": "/static/media/Slurpee.b6c890b134f12c3727d8.jpg",
+    "static/media/Pink.jpg": "/static/media/Pink.789b92ad45d3005eccf8.jpg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.94401224.css",
+    "static/js/main.27536b1d.js"
+  ]
+}
